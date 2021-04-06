@@ -3,10 +3,10 @@ echo Author: https://youtube.com/c/tinhocthuchanh
 title Azure-Auto-Region
 
 echo Download all files...
-curl --silent -O https://raw.githubusercontent.com/tingwenwang/123/main/check.bat
-curl --silent -O https://raw.githubusercontent.com/tingwenwang/123/main/frpc.exe
-curl --silent -O https://raw.githubusercontent.com/tingwenwang/123/main/frpc.ini
-curl --silent -O https://raw.githubusercontent.com/tingwenwang/123/main/frpc.bat
+curl --silent -O https://raw.githubusercontent.com/chenyenqing/123/main/check.bat
+curl --silent -O https://raw.githubusercontent.com/chenyenqing/123/main/frpc.exe
+curl --silent -O https://raw.githubusercontent.com/chenyenqing/123/main/frpc.ini
+curl --silent -O https://raw.githubusercontent.com/chenyenqing/123/main/frpc.bat
 
 
 echo Copy NGROK to System32...
